@@ -58,7 +58,7 @@ git clone https://github.com/SudKul/cd0157-Server-Deployment-and-Containerizatio
 cd cd0157-Server-Deployment-and-Containerization/
 ```
 1. These are the files relevant for the current project:
-```bash
+```bash 
 .
 ├── Dockerfile 
 ├── README.md
