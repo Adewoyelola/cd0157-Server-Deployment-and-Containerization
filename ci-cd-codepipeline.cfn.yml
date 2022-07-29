@@ -87,7 +87,7 @@ Metadata:
           - EksClusterName
     ParameterLabels:
       GitHubUser:
-        default: Adewoyelola
+        default: Username
       GitHubToken:
         default: Access token
       GitSourceRepo:
